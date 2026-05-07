@@ -5,3 +5,47 @@
 }
 
 /* write all your rules below */
+
+
+h1 {
+    display: flex;
+    background-color:pink;
+    border: 1vw solid red;
+    justify-content: flex-start;
+    margin:6%;
+     align-items:flex-start;
+}
+
+.box1 {
+    background-color: aquamarine;
+    padding:12%;
+    display:flex;
+    justify-content: space-around;
+}
+
+#box2 {
+    margin:9%;
+    background-color:yellow;
+    border:12px gray solid;
+    padding:7%;
+    display:flex;
+    justify-content: start;
+}
+
+
+p {
+  color-blue
+
+}
+
+.green {
+    color:green;
+}
+
+.pink {
+    color:pink;
+}
+
+.red {
+    color:red;
+}
